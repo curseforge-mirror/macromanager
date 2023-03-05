@@ -3,6 +3,7 @@
 This is a mirror of grumpyaddons's MacroManager
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/macromanager)
+- [Github URL](https://github.com/grumpyaddons/MacroManager)
 
 ----
 
